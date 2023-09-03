@@ -1,0 +1,9 @@
+# Ignore all the cache files
+.DS_Store
+.coverage
+
+# Ignore all the cached directories
+__pycache__
+
+# Some test files
+num_generator.sh
