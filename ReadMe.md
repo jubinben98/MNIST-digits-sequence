@@ -138,7 +138,7 @@ References:
 
 STEP-1: Go inside the project directory:
 ```commandline
-$ cd techical-assignment
+$ cd MNIST-digits-sequence
 ```
 
 STEP-2: Install all the dependencies:
@@ -233,7 +233,7 @@ $ ls
 
 STEP-1: Go inside the project directory:
 ```commandline
-$ cd techical-assignment
+$ cd MNIST-digits-sequence
 ```
 
 STEP-2: Execute the docker build command:
